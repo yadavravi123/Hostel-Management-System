@@ -1,0 +1,30 @@
+.hostels{
+    /* text-align: center; */
+   
+    margin: 4rem 10rem 0;
+
+}
+.hostelcard{
+    margin: 0 0.5rem;
+    background-color: #E3F6FF;
+    /* color: white; */
+}
+.top-img{
+    width: 100%;
+}
+.hostel-col{
+    padding: 2% 3%;
+}
+.hostel-row{
+    padding-top: 5%;
+}
+
+#hostel-section{
+
+}
+.card{
+    background-color: #E3F6FF;
+}
+.carousel-img{
+    width: 100%;
+}
